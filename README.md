@@ -36,6 +36,16 @@ Then the content should be unique and reflect the skills and personality of the 
 
 How are we implementing it?
 
+### Feature #2: Modify Contents
+
+Estimate of time needed to complete: _____
+
+Start time: ______
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
 Modify the contents of the template to make it your own. The HTML elements may remain the same if you like, but the content should be adapted to reflect your personal details and skills.
 Apply the following changes, some of which were part of your prework for this course:
 Next to the header image, add your name and a short, 2-3 word title.
